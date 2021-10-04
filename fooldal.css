@@ -1,0 +1,15 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    background-color: black;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.col{
+    text-align: left;
+}
+strong{
+    color: orange;
+}
