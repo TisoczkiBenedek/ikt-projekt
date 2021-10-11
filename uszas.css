@@ -7,26 +7,18 @@ h1{
     text-transform: uppercase;
     font-weight: bold;
 }
-.col{
-    text-align: left;
-}
-strong{
-    color: orange;
+#foresz{
+    border-right: 10px dashed orange;
 }
 p{
     font-size: 1.1rem;
     text-align: justify;
 }
-#foresz{
-    border-right: 10px dashed orange;
-}
 h3{
     color: orange;
 }
-h6{
+span{
     color: orange;
-}
-#elso{
-    text-decoration: none;
-    color: blue;
+    font-size: bold;
+    font-style: italic;
 }
