@@ -1,0 +1,36 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    background-color: black;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.col{
+    text-align: left;
+}
+strong{
+    color: orange;
+}
+p{
+    font-size: 1.1rem;
+    text-align: justify;
+}
+#foresz{
+    border-right: 10px dashed orange;
+}
+h3{
+    color: orange;
+}
+h6{
+    color: orange;
+}
+.elso{
+    text-decoration: none;
+    color: blue;
+}
+#masodik{
+    text-align: center;
+    
+}
