@@ -1,6 +1,7 @@
 body{
     font-family: 'Roboto Slab', serif;
     background-color: black;
+    overflow-x: hidden;
 }
 h1{
     text-align: center;
@@ -33,4 +34,22 @@ h6{
 #masodik{
     text-align: center;
     
+}
+table{
+    border: 1px solid orange;
+    width: 30%;
+    border-spacing: 1px;
+}
+th{
+    border: 1px solid orange;
+}
+td{
+    border: 1px solid orange;
+    width: 10px;
+}
+.tablazat{
+    text-align: center;
+}
+#elsosor{
+    text-align: center;
 }
