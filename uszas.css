@@ -1,0 +1,25 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    background-color: black;
+    overflow-x: hidden;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+#foresz{
+    border-right: 10px dashed orange;
+}
+p{
+    font-size: 1.1rem;
+    text-align: justify;
+}
+h3{
+    color: orange;
+}
+span{
+    color: orange;
+    font-weight: bold;
+    font-style: italic;
+}
