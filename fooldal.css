@@ -38,3 +38,7 @@ h6{
 ul{
     list-style-type: square;
 }
+input[type=email] {
+    border: 2px solid orange;
+    border-radius: 4px;
+  }

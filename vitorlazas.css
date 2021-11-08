@@ -53,3 +53,6 @@ td{
 #elsosor{
     text-align: center;
 }
+.carousel-inner img {
+    margin: auto;
+  }
