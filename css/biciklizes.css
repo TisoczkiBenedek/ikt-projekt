@@ -1,0 +1,27 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    font-size: large;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 4rem;
+}
+
+.card {
+    width: 18rem;
+}
+
+.kozep {
+    text-align: center;
+}
+
+.kartya {
+    height: 400px;
+}
+
+nav {
+    border-bottom: 1px solid black;
+}
