@@ -25,3 +25,15 @@ h1{
 nav {
     border-bottom: 1px solid black;
 }
+
+#kosarlabdakep {
+    width: 10%;
+    height: 10%;
+    margin-right: 50px;
+}
+
+#kosarpalyakep {
+    width: 20%;
+    height: 20%;
+    margin-right: 50px;
+}
